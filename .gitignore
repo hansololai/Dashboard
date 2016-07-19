@@ -45,4 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-.tmp/public/css/backbone.modal.css
+
+
+
+node_modules/**
+.tmp/**
+assets/js/bundle.js
+assets/js/all.js
+assets/files/
+config/connections.js
+config/local.js
